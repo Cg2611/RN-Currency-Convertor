@@ -55,7 +55,7 @@ function App(): React.JSX.Element {
     <View style={styles.container}>
       <View style={styles.topContainer}>
         <View style={styles.rupeesContainer}>
-          <Text style={styles.rupeesContainer} >
+          <Text style={styles.rupee} >
             Rs.
           </Text>
           <TextInput 
